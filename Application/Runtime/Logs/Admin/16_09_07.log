@@ -1,0 +1,241 @@
+[ 2016-09-07T10:48:08+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: info F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Admin\Controller\CommonController.class.php 第 15 行.
+
+[ 2016-09-07T10:48:08+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:10+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Login/makeCode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-07T10:48:22+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Login/checkuse.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `user` WHERE `uname` = 'admin' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-09-07T10:48:22+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `t_gro_access` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_gro_access` WHERE ( uid =1 ) LIMIT 1   [ RunTime:0.0550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:22+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Index/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:22+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Index/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:32+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_gro_access` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_gro_access` WHERE ( uid =1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:32+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:36+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Art/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_gro_access` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_gro_access` WHERE ( uid =1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `article` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `article`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-07T10:48:36+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Art/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-07T10:48:37+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Art/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_gro_access` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_gro_access` WHERE ( uid =1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `tag`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/__PUBLIC__/info/iconfont.css.php): failed to open stream: No such file or directory F:\wampser\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 113 行.
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 118 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: cid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 125 行.
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 134 行.
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 139 行.
+NOTIC: [8] Undefined variable: tid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [8] Undefined variable: tid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [8] Undefined variable: tid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [8] Undefined variable: tid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [8] Undefined variable: tid F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 146 行.
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 161 行.
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 166 行.
+NOTIC: [8] Undefined variable: artData F:\wampser\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\e7c7642dcfaf13a7d73c7ac1f16500b3.php 第 172 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:37+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Art/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:48+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_gro_access` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_gro_access` WHERE ( uid =1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-07T10:48:48+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Index/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

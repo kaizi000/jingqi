@@ -1,0 +1,70 @@
+[ 2016-11-06T11:29:09+08:00 ] 127.0.0.1 /jingqi2.0/index.php?s=jingqi/api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0080s ]
+
+[ 2016-11-06T11:48:39+08:00 ] 127.0.0.1 /jingqi2.0/index.php?s=jingqi/api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0060s ]
+
+[ 2016-11-06T11:48:40+08:00 ] 127.0.0.1 /jingqi2.0/index.php?s=jingqi/api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0080s ]
+
+[ 2016-11-06T11:48:40+08:00 ] 127.0.0.1 /jingqi2.0/index.php?s=jingqi/api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0070s ]
+
+[ 2016-11-06T11:48:41+08:00 ] 127.0.0.1 /jingqi2.0/index.php?s=jingqi/api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0090s ]
+
+[ 2016-11-06T12:16:15+08:00 ] 127.0.0.1 /jingqi2.0/index.php?s=/Jingqi/Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0150s ]
+
+[ 2016-11-06T12:16:38+08:00 ] 127.0.0.1 /jingqi2.0/Jingqi/Api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mood_img` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `mood_img` WHERE `is_mark` = 1 AND `uid` = 101 ORDER BY start_time desc LIMIT 1   [ RunTime:0.0080s ]
+

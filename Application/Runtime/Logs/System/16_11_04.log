@@ -1,0 +1,1177 @@
+[ 2016-11-04T11:56:38+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478231798470
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T11:57:55+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478231875167
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T11:58:00+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T12:04:06+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-04T12:04:25+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T12:14:06+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478232846564
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T12:14:13+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T12:14:46+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-04T12:22:20+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T13:40:17+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478238017730
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:30:33+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478244633663
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:30:48+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:30:55+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Org\Upload\Upload.class.php 第 31 行.
+
+[ 2016-11-04T15:31:43+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478244703600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:31:45+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:31:53+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Org\Upload\Upload.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0440s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','77471478244713','__PUBLIC__/Uploads/77471478244713.png','png','1478244713','132406','','1') [ RunTime:0.0810s ]
+
+[ 2016-11-04T15:32:12+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T15:35:09+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478244909775
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-04T15:38:33+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245113578
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:38:36+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245116695
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:38:51+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245131550
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-04T15:39:05+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0360s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:39:46+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Org\Upload\Upload.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','89211478245186','__PUBLIC__/Uploads/89211478245186.png','png','1478245186','132406','','1') [ RunTime:0.0020s ]
+
+[ 2016-11-04T15:41:00+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245260669
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T15:41:33+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245293110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-04T15:41:43+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245303322
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T15:41:49+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:41:55+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Org\Upload\Upload.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','18231478245315','__PUBLIC__/Uploads/18231478245315.png','png','1478245315','132406','','1') [ RunTime:0.0080s ]
+
+[ 2016-11-04T15:43:50+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245430424
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T15:43:56+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:44:01+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Org\Upload\Upload.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','86901478245441','__PUBLIC__/Uploads/86901478245441.png','png','1478245441','132406','','1') [ RunTime:0.0210s ]
+
+[ 2016-11-04T15:45:36+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245536747
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T15:45:42+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0196s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:45:50+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Org\Upload\Upload.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','11561478245550','__PUBLIC__/Uploads/11561478245550.png','png','1478245550','132406','','1') [ RunTime:0.0610s ]
+
+[ 2016-11-04T15:48:04+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245684279
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:48:13+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:48:19+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','47441478245699','Public/Uploads/47441478245699.png','png','1478245699','132406','','1') [ RunTime:0.0070s ]
+
+[ 2016-11-04T15:51:48+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245908671
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T15:51:53+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.6136s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:51:58+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0760s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','72301478245918','Public/Uploads/72301478245918.png','png','1478245918','132406','','1') [ RunTime:0.0270s ]
+
+[ 2016-11-04T15:52:42+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478245962916
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T15:52:47+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:52:51+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0090s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','5761478245971','Public/Uploads/5761478245971.png','png','1478245971','132406','','1') [ RunTime:0.0020s ]
+
+[ 2016-11-04T15:54:35+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478246075860
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-04T15:54:43+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0000s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T15:54:49+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0450s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','15641478246088','Public/Uploads/15641478246088.png','png','1478246088','132406','','1') [ RunTime:0.0110s ]
+
+[ 2016-11-04T16:02:52+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478246572442
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T16:02:59+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0140s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T16:03:17+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','64981478246597','Public/Uploads/64981478246597.png','png','1478246597','132406','','1') [ RunTime:0.0050s ]
+
+[ 2016-11-04T16:05:56+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478246756736
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-04T16:06:03+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T16:06:10+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0090s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','17471478246770','Public/Uploads/17471478246770.png','png','1478246770','132406','','1') [ RunTime:0.0660s ]
+
+[ 2016-11-04T16:09:08+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478246948012
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T16:09:13+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0156s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T16:09:18+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','79421478246958','Public/Uploads/79421478246958.png','png','1478246958','132406','','1') [ RunTime:0.1310s ]
+
+[ 2016-11-04T16:13:19+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478247199159
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-04T16:13:22+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478247202953
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T16:13:25+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478247205366
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T16:13:28+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478247208444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T16:13:31+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478247211592
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T16:16:41+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=system/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T16:25:14+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478247914523
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T16:25:18+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0150s ]
+ERR: Think\Model:whereIn方法不存在！
+
+[ 2016-11-04T17:13:43+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0156s ]
+ERR: Think\Model:in方法不存在！
+
+[ 2016-11-04T17:34:20+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0156s ]
+ERR: Think\Model:in方法不存在！
+
+[ 2016-11-04T17:42:15+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478252535947
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 80 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T17:42:19+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0510s ]
+NOTIC: [8] Array to string conversion F:\wampser\www\datassd\jqapp\ThinkPHP\Library\Think\Model.class.php 第 227 行.
+ERR: 1054:Champ 'Array' inconnu dans field list
+ [ SQL语句 ] : SELECT COUNT(Array) AS tp_count FROM `core_attachment` LIMIT 1  
+ERR: 1054:Champ 'Array' inconnu dans field list
+ [ SQL语句 ] : SELECT COUNT(Array) AS tp_count FROM `core_attachment` LIMIT 1  
+
+[ 2016-11-04T17:45:52+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478252752892
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 80 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T17:45:57+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.1402s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.5856s ]
+
+[ 2016-11-04T17:55:00+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478253300017
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T17:55:03+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0090s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T17:55:23+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478253323416
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T17:55:27+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T18:03:20+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478253800745
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:03:23+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:04:02+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478253842481
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:04:08+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0270s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:05:09+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478253909937
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:05:16+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T18:05:22+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','19491478253922','Public/Uploads/19491478253922.png','png','1478253922','132406','','1') [ RunTime:0.0060s ]
+
+[ 2016-11-04T18:06:22+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478253982193
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:09:35+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478254175370
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:09:38+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T18:09:42+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T18:09:47+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0240s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','75731478254187','Public/Uploads/2016-11-04/75731478254187.png','png','1478254187','132406','','1') [ RunTime:0.0060s ]
+
+[ 2016-11-04T18:17:05+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478254625248
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:17:10+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478254630218
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:18:17+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478254697720
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:18:21+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:18:45+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','18251478254725','Public/Uploads/2016-11-04/18251478254725.png','png','1478254725','132406','','1') [ RunTime:0.0050s ]
+
+[ 2016-11-04T18:23:00+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478254980514
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-04T18:23:06+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:23:12+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0090s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','9031478254992','Public/Uploads/2016-11-04/9031478254992.png','png','1478254992','132406','','1') [ RunTime:0.0050s ]
+
+[ 2016-11-04T18:23:54+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478255034240
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:24:01+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:24:08+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','42821478255046','Public/Uploads/2016-11-04/42821478255046.png','png','1478255047','132406','','1') [ RunTime:1.4341s ]
+
+[ 2016-11-04T18:26:25+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478255185110
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:26:32+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:26:38+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','11481478255198','Public/Uploads/2016-11-04/11481478255198.png','png','1478255198','132406','','1') [ RunTime:0.0750s ]
+
+[ 2016-11-04T18:30:26+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478255426839
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-04T18:30:34+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0010s ]
+
+[ 2016-11-04T18:30:41+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','1701478255441','Public/Uploads/2016-11-04/1701478255441.png','png','1478255441','132406','','1') [ RunTime:0.1010s ]
+
+[ 2016-11-04T18:31:03+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T18:31:08+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/uploader
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `core_attachment` (`name`,`filename`,`path`,`extension`,`createtime`,`size`,`data`,`hash`) VALUES ('Image 1','47521478255468','Public/Uploads/2016-11-04/47521478255468.png','png','1478255468','132406','','1') [ RunTime:0.0320s ]
+
+[ 2016-11-04T18:31:34+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T18:40:29+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478256029416
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-04T18:40:50+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/filesLists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `core_attachment` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `core_attachment` WHERE `hash` = '1' AND `extension` IN ('gif','jpg','jpeg','bmp','png') ORDER BY id desc LIMIT 0,25   [ RunTime:0.0000s ]
+
+[ 2016-11-04T19:14:54+08:00 ] 127.0.0.1 /datassd/jqapp/index.php?s=System/component/ueditor&action=config&&noCache=1478258094196
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory F:\wampser\www\datassd\jqapp\Application\System\Controller\ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

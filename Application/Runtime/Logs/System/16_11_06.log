@@ -1,0 +1,12 @@
+[ 2016-11-06T11:06:33+08:00 ] 121.69.37.186 /jingqi/index.php?s=System/component/ueditor&action=config&&noCache=1478401352387
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+NOTIC: [2] file_get_contents(config.json): failed to open stream: No such file or directory /data/home/bxu2442550491/htdocs/jingqi/Application/System/Controller/ComponentController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+

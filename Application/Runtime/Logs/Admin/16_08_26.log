@@ -1,0 +1,1126 @@
+[ 2016-08-26T00:13:09+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0005s ]
+
+[ 2016-08-26T00:13:27+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T00:13:46+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T00:49:39+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T00:51:37+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 61 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 62 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 61 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 62 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 61 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 62 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 61 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 62 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 61 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 62 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+
+[ 2016-08-26T00:51:48+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 63 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 63 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 63 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 63 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 60 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 63 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+
+[ 2016-08-26T00:52:05+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 64 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 64 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 64 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 64 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 64 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 58 行.
+
+[ 2016-08-26T00:52:12+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T00:52:29+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T00:53:08+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T00:53:50+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T00:53:51+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T00:55:27+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: cateData F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Admin\Controller\CateController.class.php 第 28 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+NOTIC: [8] Undefined variable: cateData F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\445268ddaf2bc45319656f4d388ff04f.php 第 106 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2016-08-26T00:55:27+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-08-26T00:55:51+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T00:56:19+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004132s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Undefined variable: cateData F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\445268ddaf2bc45319656f4d388ff04f.php 第 106 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2016-08-26T00:56:19+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-08-26T00:56:32+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+NOTIC: [8] Undefined variable: cateData F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\445268ddaf2bc45319656f4d388ff04f.php 第 106 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2016-08-26T00:56:32+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2016-08-26T00:57:00+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Undefined variable: cateData F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\445268ddaf2bc45319656f4d388ff04f.php 第 106 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+
+[ 2016-08-26T00:57:00+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-08-26T00:57:19+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8] Undefined variable: cateData F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Runtime\Cache\Admin\445268ddaf2bc45319656f4d388ff04f.php 第 106 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-08-26T00:57:19+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+
+[ 2016-08-26T00:58:09+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-08-26T00:58:09+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+
+[ 2016-08-26T00:59:38+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+
+[ 2016-08-26T00:59:39+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+
+[ 2016-08-26T00:59:55+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012944s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2016-08-26T00:59:55+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-08-26T01:01:49+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/60.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=60 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-08-26T01:01:49+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+
+[ 2016-08-26T01:02:07+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/60.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: validate F:\wamp\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\wamp\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cate` (`cname`,`pid`,`csort`,`cdes`) VALUES ('欧美','60','100','电影') [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=60 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010760s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006654s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-08-26T01:02:07+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-08-26T01:02:08+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-08-26T01:02:08+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-08-26T01:02:16+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/64.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=64 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2016-08-26T01:02:16+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-08-26T01:02:58+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/64.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000171s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined index: validate F:\wamp\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\wamp\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cate` (`cname`,`pid`,`csort`,`cdes`) VALUES ('英超','64','100','英国联赛') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=64 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011555s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006323s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2016-08-26T01:02:58+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-08-26T01:02:59+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2016-08-26T01:02:59+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-26T01:03:23+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/67.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=67 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-08-26T01:03:23+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+
+[ 2016-08-26T01:03:59+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/67.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: validate F:\wamp\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\wamp\www\Thinkphp\thinkphp3.2.3\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cate` (`cname`,`pid`,`csort`,`cdes`) VALUES ('英甲','67','100','甲级') [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=67 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010556s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006591s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005345s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-08-26T01:03:59+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-08-26T01:04:00+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-08-26T01:04:00+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-08-26T01:07:30+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T01:07:45+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T01:08:29+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T01:09:46+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T01:09:48+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+
+[ 2016-08-26T01:09:56+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-08-26T01:09:57+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2016-08-26T01:13:23+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T01:13:47+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+
+[ 2016-08-26T01:13:48+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined variable: arr F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 48 行.
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array F:\wamp\www\Thinkphp\thinkphp3.2.3\Application\Common\Common\function.php 第 36 行.
+
+[ 2016-08-26T01:14:25+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+
+[ 2016-08-26T01:15:54+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2016-08-26T01:15:54+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-08-26T01:16:52+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-08-26T01:16:52+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-08-26T01:16:53+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-08-26T01:16:54+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-08-26T01:16:55+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/59.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=59 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-08-26T01:16:55+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+
+[ 2016-08-26T01:16:57+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-08-26T01:16:57+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+
+[ 2016-08-26T01:17:04+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/59.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `cate` WHERE ( cid=59 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2016-08-26T01:17:04+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/addSon/cid/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+
+[ 2016-08-26T01:17:10+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-08-26T01:17:10+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-08-26T08:37:10+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php?m=Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-08-26T08:37:13+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-08-26T08:37:13+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-08-26T08:37:15+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+SQL: SHOW COLUMNS FROM `cate` [ RunTime:0.0908s ]
+SQL: SELECT * FROM `cate`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000242s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000493s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001947s ]
+
+[ 2016-08-26T08:37:15+08:00 ] 127.0.0.1 /Thinkphp/thinkphp3.2.3/index.php/Admin/Cate/images/admin_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
